@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 <!-- Kangying Zhou -->
+About
+------
 
 
 Education
