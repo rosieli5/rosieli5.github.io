@@ -25,7 +25,6 @@ Work Experience
 Job Market Paper
 ------
 
-
 Awards
 ------
 - Research Excellence Award, CIRF Lindner College of Business, 2022
@@ -37,7 +36,8 @@ Awards
 
 Publication
 ------
-The Virtue of Complexity in Return Prediction (with Bryan Kelly and Semyon Malamud), 2023, Journal of Finance
+#### *The Virtue of Complexity in Return Prediction*       
+Journal of Finance, Forthcoming (with Bryan Kelly and Semyon Malamud) 
 
 Working Paper
 ------
