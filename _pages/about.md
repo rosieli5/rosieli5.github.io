@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Kangying Zhou"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+<!-- Kangying Zhou -->
 Education
 ------
 - Ph.D. in Financial Economics, Yale University, 2019–2025 (Expectd), Advisor: Professor [Bryan Kelly](https://www.bryankellyacademic.org/)                  
@@ -21,7 +21,6 @@ Work Experience
     Quantitative Analyst, 2018   
 - Booth School of Business, The University of Chicago         
     Research Assistant for Professor Dacheng Xiu, 2017 - 2019   
-
 
 
 Awards
