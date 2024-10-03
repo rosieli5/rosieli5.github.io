@@ -9,8 +9,8 @@ redirect_from:
 
 Education
 ------
-- Ph.D. in Financial Economics, Yale University, 2019–2025 (Expectd), Advisor: Professor Bryan Kelly                 
-- M.S. in Financial Mathematics, The University of Chicago, 2016–2017, Advisor: Professor Dacheng Xiu        
+- Ph.D. in Financial Economics, Yale University, 2019–2025 (Expectd), Advisor: Professor [Bryan Kelly](https://www.bryankellyacademic.org/)                  
+- M.S. in Financial Mathematics, The University of Chicago, 2016–2017, Advisor: Professor [Dacheng Xiu](https://dachxiu.chicagobooth.edu/)        
 - B.A. in Economics, Huazhong University of Science and Technology, 2012 - 2016
 
 Work Experience
