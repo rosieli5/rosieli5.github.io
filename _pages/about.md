@@ -22,8 +22,7 @@ Work Experience
 - Booth School of Business, The University of Chicago         
     Research Assistant for Professor Dacheng Xiu, 2017 - 2019   
 
-Job Market Paper
-------
+
 
 Awards
 ------
@@ -33,6 +32,10 @@ Awards
 - Travel Grant, Wolfe Annual Global Quantitative and Macro Investment Conference, 2022                  
 - Travel Grant, Adam Smith Workshop, 2022
 - Graduate Fellowship, Yale, 2019 - 2024
+
+Job Market Paper
+------
+
 
 Publication
 ------
@@ -55,7 +58,7 @@ Work in Progress
 ### *Vector Autoregressions with Virtue of Complexity*, 2024
 ### *Monetary Policy Transmission Channel via News*, 2024
 
-Teaching Experience  
+<!-- Teaching Experience  
 ------
 Yale School of Management, Teaching Assistant
   - Empirical Asset Pricing: Professor Bryan Kelly (Ph.D., Fall 2021)    
@@ -69,9 +72,9 @@ Service
 - Referee      
   - U.S. National Science Foundation (NSF)
   - Journal of Banking and Finance
-  - Emerging Markets Review
+  - Emerging Markets Review -->
 
-Participation
+<!-- Participation
 ------
 - 2023 Deep Learning for Solving and Estimating Dynamic Models (DSE) Summer School
   - Ken Singleton Celebration at Stanford Graduate School of Business
@@ -79,7 +82,7 @@ Participation
   - Macro Finance Society Virtual Summer School
 - 2021 NBER Entrepreneurship Research Boot Camp
   - NBER Economics of Artificial Intelligence (AI) Conference
-- 2020 Princeton Financial Economics of Insurance Workshop
+- 2020 Princeton Financial Economics of Insurance Workshop -->
 
 
 Contact
