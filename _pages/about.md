@@ -10,7 +10,7 @@ redirect_from:
 Education
 ------
 - Ph.D. in Financial Economics, Yale University, 2019–2025 (Expectd), Advisor: Professor [Bryan Kelly](https://www.bryankellyacademic.org/)                  
-- M.S. in Financial Mathematics, The University of Chicago, 2016–2017, Advisor: Professor [Dacheng Xiu](https://dachxiu.chicagobooth.edu/)        
+- M.S. in Financial Mathematics, The University of Chicago, 2016–2017       
 - B.A. in Economics, Huazhong University of Science and Technology, 2012 - 2016
 
 Work Experience
@@ -36,24 +36,24 @@ Awards
 
 Publication
 ------
-#### *The Virtue of Complexity in Return Prediction*       
+### *The Virtue of Complexity in Return Prediction*       
 Journal of Finance, Forthcoming (with Bryan Kelly and Semyon Malamud)        
 Much of the extant literature predicts market returns with “simple” models that use only a few parameters. Contrary to conventional wisdom, we theoretically prove that simple models severely understate return predictability compared to “complex” models in which the number of parameters *exceeds* the number of observations. We empirically document the virtue of complexity in US equity market return prediction. Our findings establish the rationale for modeling expected returns through machine learning.
 
 
 Working Paper
 ------
-#### *The Virtue of Complexity Everywhere*
+### *The Virtue of Complexity Everywhere*
 (with Bryan Kelly and Semyon Malamud)        
 We investigate the performance of *non-linear* return prediction models in the high complexity regime, i.e., when the number of model parameters exceeds the number of observations. We document a “virtue of complexity”: Return prediction $ R^2$ and optimal portfolio Sharpe ratio generally increase with model parameterization in all asset classes that we study (US equities, international equities, bonds, commodities, currencies, and interest rates). The virtue of complexity is present even in extremely data-scarce environments, e.g., for predictive models with less than twenty observations and tens of thousands of predictors. The empirical association between model complexity and out-of-sample model performance exhibits a striking consistency with theoretical predictions.
 
-#### *Robust Prediction after Structural Breaks*      
+### *Robust Prediction after Structural Breaks*      
 This study proposes a new modeling approach for time series prediction after structural breaks. The method incorporates a time trend variable into non-linear predictive models to effectively handle coefficient variations over time. By optimizing bias-variance tradeoff, this approach significantly improves prediction accuracy and optimal portfolio Sharpe ratio compared to both linear and non-linear standard models. Results of Monte Carlo simulations are presented to examine the finite sample performances of the proposed procedures. Empirically, the paper demonstrates improved prediction performance in U.S. equity market return. These findings establish the rationale for the robustness of machine learning predictions with structural breaks.
 
 Work in Progress
 ------
-#### *Vector Autoregressions with Virtue of Complexity*, 2024
-#### *Monetary Policy Transmission Channel via News*, 2024
+### *Vector Autoregressions with Virtue of Complexity*, 2024
+### *Monetary Policy Transmission Channel via News*, 2024
 
 Teaching Experience  
 ------
@@ -90,7 +90,7 @@ Yale School of Management, Ph.D. Suite
 165 Whitney Avenue               
 New Haven, CT 06511             
 
-
+<!-- , Advisor: Professor [Dacheng Xiu](https://dachxiu.chicagobooth.edu/)  -->
 
 
 
