@@ -76,14 +76,15 @@
    Author profile and links
    ========================================================================== */
 
+   //zhege shi shouji banben
 .author__avatar {
   display: table;
   vertical-align: top;
   // width: 36px;
-  width: 180px;
+  width: 270px;
   // set width only, for non-square avatars
   // height: 36px;
-  height: 240px;
+  height: 360px;
   // display: table-cell;
 
   // @include breakpoint($large) {
@@ -92,6 +93,7 @@
   //   // height: auto;
   // }
 
+     //zhege shi wangye banben
   img {
     // max-width: 175px;
     max-width: 180px;
