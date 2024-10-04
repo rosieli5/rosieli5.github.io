@@ -8,11 +8,13 @@ redirect_from:
 ---
 
 <!-- Kangying Zhou -->
-About
+
+
+About       
 ------
 
 
-Education
+Education 
 ------
 - Ph.D. in Financial Economics, Yale University, 2019–2025 (Expectd), Advisor: Professor [Bryan Kelly](https://www.bryankellyacademic.org/)                  
 - M.S. in Financial Mathematics, The University of Chicago, 2016–2017       
