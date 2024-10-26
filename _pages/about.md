@@ -9,9 +9,10 @@ redirect_from:
 
 <!-- Kangying Zhou -->
 
+<div style="text-align: justify;" markdown="1">
 
-About       
-------
+<!-- About       
+------ -->
 
 
 Education 
