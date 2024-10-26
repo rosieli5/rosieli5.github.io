@@ -22,7 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   # avatar           : "profile34.png"
-  avatar           : "profile2to3.png" 
+  # avatar           : "profile2to3.png" 
+  avatar           : "images/profile2to3.png" 
   name             : "Kangying Zhou"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate at Yale SOM."
