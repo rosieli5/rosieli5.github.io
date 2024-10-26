@@ -13,7 +13,7 @@ redirect_from:
 ------ -->
 
 ## Education 
-- AAAAAA Ph.D. in Financial Economics, Yale University, 2019–2025 (Expectd), Advisor: Professor [Bryan Kelly](https://www.bryankellyacademic.org/)                  
+- AAA Ph.D. in Financial Economics, Yale University, 2019–2025 (Expectd), Advisor: Professor [Bryan Kelly](https://www.bryankellyacademic.org/)                  
 - M.S. in Financial Mathematics, The University of Chicago, 2016–2017       
 - B.A. in Economics, Huazhong University of Science and Technology, 2012 - 2016
 
