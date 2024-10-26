@@ -43,7 +43,6 @@ Journal of Finance, Forthcoming (with Bryan Kelly and Semyon Malamud)
 
 <!-- Much of the extant literature predicts market returns with “simple” models that use only a few parameters. Contrary to conventional wisdom, we theoretically prove that simple models severely understate return predictability compared to “complex” models in which the number of parameters *exceeds* the number of observations. We empirically document the virtue of complexity in US equity market return prediction. Our findings establish the rationale for modeling expected returns through machine learning. -->
 
-
 ## Working Paper
 ### *The Virtue of Complexity Everywhere*
 (with Bryan Kelly and Semyon Malamud)        
