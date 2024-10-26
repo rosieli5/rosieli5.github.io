@@ -15,14 +15,12 @@ redirect_from:
 ------ -->
 
 
-Education 
-------
+## Education 
 - Ph.D. in Financial Economics, Yale University, 2019–2025 (Expectd), Advisor: Professor [Bryan Kelly](https://www.bryankellyacademic.org/)                  
 - M.S. in Financial Mathematics, The University of Chicago, 2016–2017       
 - B.A. in Economics, Huazhong University of Science and Technology, 2012 - 2016
 
-Work Experience
-------
+## Work Experience
 - Bloomberg LP       
     Data Scientist in Chief Technology Office, 2019   
 - Sheffield Asset Management, L.L.C.      
@@ -31,8 +29,7 @@ Work Experience
     Research Assistant for Professor Dacheng Xiu, 2017 - 2019   
 
 
-Awards
-------
+## Awards
 - Research Excellence Award, CIRF Lindner College of Business, 2022
 - Best Paper Award, Hong Kong Conference for Fintech, AI, and Big Data in Business, 2022
 - Travel Grant, Stanford Institute for Theoretical Economics (SITE), 2022
@@ -40,20 +37,18 @@ Awards
 - Travel Grant, Adam Smith Workshop, 2022
 - Graduate Fellowship, Yale, 2019 - 2024
 
-Job Market Paper
-------
+## Job Market Paper
 
 
-Publication
-------
+## Publication
+
 ### *The Virtue of Complexity in Return Prediction*       
 Journal of Finance, Forthcoming (with Bryan Kelly and Semyon Malamud)        
 
 <!-- Much of the extant literature predicts market returns with “simple” models that use only a few parameters. Contrary to conventional wisdom, we theoretically prove that simple models severely understate return predictability compared to “complex” models in which the number of parameters *exceeds* the number of observations. We empirically document the virtue of complexity in US equity market return prediction. Our findings establish the rationale for modeling expected returns through machine learning. -->
 
 
-Working Paper
-------
+## Working Paper
 ### *The Virtue of Complexity Everywhere*
 (with Bryan Kelly and Semyon Malamud)        
 <!-- We investigate the performance of *non-linear* return prediction models in the high complexity regime, i.e., when the number of model parameters exceeds the number of observations. We document a “virtue of complexity”: Return prediction $ R^2$ and optimal portfolio Sharpe ratio generally increase with model parameterization in all asset classes that we study (US equities, international equities, bonds, commodities, currencies, and interest rates). The virtue of complexity is present even in extremely data-scarce environments, e.g., for predictive models with less than twenty observations and tens of thousands of predictors. The empirical association between model complexity and out-of-sample model performance exhibits a striking consistency with theoretical predictions. -->
