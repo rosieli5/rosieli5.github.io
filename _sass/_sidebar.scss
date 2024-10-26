@@ -84,7 +84,7 @@
   width: 240px;
   // set width only, for non-square avatars
   // height: 36px;
-  height: 180px;
+  height: 360px;
   // display: table-cell;
 
   // @include breakpoint($large) {
@@ -97,7 +97,7 @@
   img {
     // max-width: 175px;
     max-width: 320px;
-    max-height: 240px;
+    max-height: 360px;
 
     // border-radius: 50%;
     // border-radius: 100%;
