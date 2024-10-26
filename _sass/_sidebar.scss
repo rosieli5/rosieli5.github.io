@@ -82,11 +82,11 @@
   vertical-align: top;
   // width: 36px;
   // width: 240px;
-  width: 300px;
+  width: 240px;
   // set width only, for non-square avatars
   // height: 36px;
   // height: 360px;
-  height: 450px;
+  height: 360px;
   // display: table-cell;
 
   // @include breakpoint($large) {
@@ -98,7 +98,7 @@
      //zhege shi wangye banben
   img {
     // max-width: 175px;
-    max-width: 270px; //300px; 240
+    max-width: 300px; //300px; 240
     max-height: 360px; //360px; 320
 
     // border-radius: 50%;
