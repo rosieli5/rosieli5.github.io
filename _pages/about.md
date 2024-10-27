@@ -42,18 +42,24 @@ I am on the 2024-2025 academic job market.
 
 ## Publication
 
-### [*The Virtue of Complexity in Return Prediction*](https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13298)       
-The Journal of Finance 79, no. 1 (2024): 459-503. (with Bryan Kelly and Semyon Malamud)        
+### [*The Virtue of Complexity in Return Prediction*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984925)    
+with Bryan Kelly and Semyon Malamud  
+*The Journal of Finance 79, no. 1 (2024): 459-503.*      
 
-<!-- Much of the extant literature predicts market returns with “simple” models that use only a few parameters. Contrary to conventional wisdom, we theoretically prove that simple models severely understate return predictability compared to “complex” models in which the number of parameters *exceeds* the number of observations. We empirically document the virtue of complexity in US equity market return prediction. Our findings establish the rationale for modeling expected returns through machine learning. -->
+Abstract: Much of the extant literature predicts market returns with “simple” models that use only a few parameters. Contrary to conventional wisdom, we theoretically prove that simple models severely understate return predictability compared to “complex” models in which the number of parameters *exceeds* the number of observations. We empirically document the virtue of complexity in US equity market return prediction. Our findings establish the rationale for modeling expected returns through machine learning. 
+
+<!-- My Presentations: 2022 Stanford Institute for Theoretical Economics (SITE) on ``New Frontiers in Asset Pricing''; 2022 SFS Cavalcade at University of North Carolina; 2022 WOLFE Annual Global Quantitative and Macro Investment Conference; 2022 China International Risk Forum (CIRF); 2022 Hong Kong Conference for Fintech, AI, and Big Data in Business; XXI Symposium at Paderborn University, Research Symposium on Finance and Economics (RSFE); EPFL; Yale -->
 
 ## Working Paper
 ### *The Virtue of Complexity Everywhere*
-(with Bryan Kelly and Semyon Malamud)        
-<!-- We investigate the performance of *non-linear* return prediction models in the high complexity regime, i.e., when the number of model parameters exceeds the number of observations. We document a “virtue of complexity”: Return prediction $ R^2$ and optimal portfolio Sharpe ratio generally increase with model parameterization in all asset classes that we study (US equities, international equities, bonds, commodities, currencies, and interest rates). The virtue of complexity is present even in extremely data-scarce environments, e.g., for predictive models with less than twenty observations and tens of thousands of predictors. The empirical association between model complexity and out-of-sample model performance exhibits a striking consistency with theoretical predictions. -->
+with Bryan Kelly and Semyon Malamud     
+
+Abstract: We investigate the performance of *non-linear* return prediction models in the high complexity regime, i.e., when the number of model parameters exceeds the number of observations. We document a “virtue of complexity”: Return prediction $R^2$ and optimal portfolio Sharpe ratio generally increase with model parameterization in all asset classes that we study (US equities, international equities, bonds, commodities, currencies, and interest rates). The virtue of complexity is present even in extremely data-scarce environments, e.g., for predictive models with less than twenty observations and tens of thousands of predictors. The empirical association between model complexity and out-of-sample model performance exhibits a striking consistency with theoretical predictions. 
+
 
 ### *Robust Prediction after Structural Breaks*      
-<!-- This study proposes a new modeling approach for time series prediction after structural breaks. The method incorporates a time trend variable into non-linear predictive models to effectively handle coefficient variations over time. By optimizing bias-variance tradeoff, this approach significantly improves prediction accuracy and optimal portfolio Sharpe ratio compared to both linear and non-linear standard models. Results of Monte Carlo simulations are presented to examine the finite sample performances of the proposed procedures. Empirically, the paper demonstrates improved prediction performance in U.S. equity market return. These findings establish the rationale for the robustness of machine learning predictions with structural breaks. -->
+Solo-authored
+Abstract: This study proposes a new modeling approach for time series prediction after structural breaks. The method incorporates a time trend variable into non-linear predictive models to effectively handle coefficient variations over time. By optimizing bias-variance tradeoff, this approach significantly improves prediction accuracy and optimal portfolio Sharpe ratio compared to both linear and non-linear standard models. Results of Monte Carlo simulations are presented to examine the finite sample performances of the proposed procedures. Empirically, the paper demonstrates improved prediction performance in U.S. equity market return. These findings establish the rationale for the robustness of machine learning predictions with structural breaks.
 
 ## Work in Progress
 ### *Vector Autoregressions with Virtue of Complexity*, 2024
