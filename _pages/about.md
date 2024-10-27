@@ -83,12 +83,12 @@ Service
 - 2020 Princeton Financial Economics of Insurance Workshop -->
 
 
-## Contact
+<!-- ## Contact
 Email: kangying.zhou@yale.edu      
 Tel: +1 (872)904-7871    
 Yale School of Management, Ph.D. Suite           
 165 Whitney Avenue               
-New Haven, CT 06511             
+New Haven, CT 06511              -->
 
 <!-- , Advisor: Professor [Dacheng Xiu](https://dachxiu.chicagobooth.edu/)  -->
 
