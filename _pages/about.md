@@ -11,27 +11,28 @@ redirect_from:
 
 <!-- About       
 ------ -->
+## About              
 
-## Education               
+<!-- ## Education               
 - Ph.D. in Financial Economics, Yale University, 2019–2025 (Expectd), Advisor: Professor [Bryan Kelly](https://www.bryankellyacademic.org/)                  
 - M.S. in Financial Mathematics, The University of Chicago, 2016–2017       
-- B.A. in Economics, Huazhong University of Science and Technology, 2012 - 2016
+- B.A. in Economics, Huazhong University of Science and Technology, 2012 - 2016 -->
 
-## Work Experience
+<!-- ## Work Experience
 - Bloomberg LP       
     Data Scientist in Chief Technology Office, 2019   
 - Sheffield Asset Management, L.L.C.      
     Quantitative Analyst, 2018   
 - Booth School of Business, The University of Chicago         
-    Research Assistant for Professor Dacheng Xiu, 2017 - 2019   
+    Research Assistant for Professor Dacheng Xiu, 2017 - 2019    -->
 
-## Awards
+<!-- ## Awards
 - Research Excellence Award, CIRF Lindner College of Business, 2022
 - Best Paper Award, Hong Kong Conference for Fintech, AI, and Big Data in Business, 2022
 - Travel Grant, Stanford Institute for Theoretical Economics (SITE), 2022
 - Travel Grant, Wolfe Annual Global Quantitative and Macro Investment Conference, 2022                  
 - Travel Grant, Adam Smith Workshop, 2022
-- Graduate Fellowship, Yale, 2019 - 2024
+- Graduate Fellowship, Yale, 2019 - 2024 -->
 
 ## Job Market Paper
 
