@@ -9,9 +9,14 @@ redirect_from:
 
 <div style="text-align: justify;" markdown="1">
 
-<!-- About       
------- -->
-## About              
+## About            
+
+I am a sixth-year Ph.D. candidate in Finance at Yale School of Management. I conduct research on asset pricing, machine learning, and natural language processing.
+
+Before Yale, I earned an M.S. in Financial Mathematics from the University of Chicago and a B.S. in Economics from Huazhong University of Science and Technology.
+
+I am on the 2024-2025 academic job market. 
+
 
 <!-- ## Education               
 - Ph.D. in Financial Economics, Yale University, 2019–2025 (Expectd), Advisor: Professor [Bryan Kelly](https://www.bryankellyacademic.org/)                  
