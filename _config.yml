@@ -28,9 +28,9 @@ author:
   pronouns         : # example: "she/her"  
   # bio              : "PhD candidate at Yale SOM."
   bio              : "Ph.D. Candidate in Finance at Yale School of Management"
-  location         : "New Haven, CT, USA"
-  employer         : "Yale University"
-  uri              : # URL
+  # employer         : "Yale University"
+  # location         : "New Haven, CT, USA"
+  # uri              : # URL
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
