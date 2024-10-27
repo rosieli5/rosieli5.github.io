@@ -1,56 +1,65 @@
 ---
 permalink: /
-title: ""
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
 <div style="text-align: justify;" markdown="1">
+<!-- ## About             -->
+I am a sixth-year Ph.D. candidate in Finance at Yale School of Management. I conduct research on asset pricing, machine learning, and natural language processing.
 
-<!-- About       
------- -->
+Before Yale, I earned an M.S. in Financial Mathematics from the University of Chicago and a B.S. in Economics from Huazhong University of Science and Technology.
 
-## Education 
-- AAA Ph.D. in Financial Economics, Yale University, 2019–2025 (Expectd), Advisor: Professor [Bryan Kelly](https://www.bryankellyacademic.org/)                  
+I am on the 2024-2025 academic job market. 
+
+
+<!-- ## Education               
+- Ph.D. in Financial Economics, Yale University, 2019–2025 (Expectd), Advisor: Professor [Bryan Kelly](https://www.bryankellyacademic.org/)                  
 - M.S. in Financial Mathematics, The University of Chicago, 2016–2017       
-- B.A. in Economics, Huazhong University of Science and Technology, 2012 - 2016
+- B.A. in Economics, Huazhong University of Science and Technology, 2012 - 2016 -->
 
-## Work Experience
+<!-- ## Work Experience
 - Bloomberg LP       
     Data Scientist in Chief Technology Office, 2019   
 - Sheffield Asset Management, L.L.C.      
     Quantitative Analyst, 2018   
 - Booth School of Business, The University of Chicago         
-    Research Assistant for Professor Dacheng Xiu, 2017 - 2019   
+    Research Assistant for Professor Dacheng Xiu, 2017 - 2019    -->
 
-## Awards
+<!-- ## Awards
 - Research Excellence Award, CIRF Lindner College of Business, 2022
 - Best Paper Award, Hong Kong Conference for Fintech, AI, and Big Data in Business, 2022
 - Travel Grant, Stanford Institute for Theoretical Economics (SITE), 2022
 - Travel Grant, Wolfe Annual Global Quantitative and Macro Investment Conference, 2022                  
 - Travel Grant, Adam Smith Workshop, 2022
-- Graduate Fellowship, Yale, 2019 - 2024
+- Graduate Fellowship, Yale, 2019 - 2024 -->
 
 ## Job Market Paper
 
+### *Active Mutual Funds and Media Narratives*
 
 ## Publication
 
-### *The Virtue of Complexity in Return Prediction*       
-Journal of Finance, Forthcoming (with Bryan Kelly and Semyon Malamud)        
+### [*The Virtue of Complexity in Return Prediction*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984925)    
+with Bryan Kelly and Semyon Malamud  
+*The Journal of Finance 79, no. 1 (2024): 459-503.*      
 
-<!-- Much of the extant literature predicts market returns with “simple” models that use only a few parameters. Contrary to conventional wisdom, we theoretically prove that simple models severely understate return predictability compared to “complex” models in which the number of parameters *exceeds* the number of observations. We empirically document the virtue of complexity in US equity market return prediction. Our findings establish the rationale for modeling expected returns through machine learning. -->
+Abstract: Much of the extant literature predicts market returns with “simple” models that use only a few parameters. Contrary to conventional wisdom, we theoretically prove that simple models severely understate return predictability compared to “complex” models in which the number of parameters *exceeds* the number of observations. We empirically document the virtue of complexity in US equity market return prediction. Our findings establish the rationale for modeling expected returns through machine learning. 
 
+<!-- My Presentations: 2022 Stanford Institute for Theoretical Economics (SITE) on ``New Frontiers in Asset Pricing''; 2022 SFS Cavalcade at University of North Carolina; 2022 WOLFE Annual Global Quantitative and Macro Investment Conference; 2022 China International Risk Forum (CIRF); 2022 Hong Kong Conference for Fintech, AI, and Big Data in Business; XXI Symposium at Paderborn University, Research Symposium on Finance and Economics (RSFE); EPFL; Yale -->
 
 ## Working Paper
 ### *The Virtue of Complexity Everywhere*
-(with Bryan Kelly and Semyon Malamud)        
-<!-- We investigate the performance of *non-linear* return prediction models in the high complexity regime, i.e., when the number of model parameters exceeds the number of observations. We document a “virtue of complexity”: Return prediction $ R^2$ and optimal portfolio Sharpe ratio generally increase with model parameterization in all asset classes that we study (US equities, international equities, bonds, commodities, currencies, and interest rates). The virtue of complexity is present even in extremely data-scarce environments, e.g., for predictive models with less than twenty observations and tens of thousands of predictors. The empirical association between model complexity and out-of-sample model performance exhibits a striking consistency with theoretical predictions. -->
+with Bryan Kelly and Semyon Malamud     
+
+Abstract: We investigate the performance of *non-linear* return prediction models in the high complexity regime, i.e., when the number of model parameters exceeds the number of observations. We document a “virtue of complexity”: Return prediction $R^2$ and optimal portfolio Sharpe ratio generally increase with model parameterization in all asset classes that we study (US equities, international equities, bonds, commodities, currencies, and interest rates). The virtue of complexity is present even in extremely data-scarce environments, e.g., for predictive models with less than twenty observations and tens of thousands of predictors. The empirical association between model complexity and out-of-sample model performance exhibits a striking consistency with theoretical predictions. 
+
 
 ### *Robust Prediction after Structural Breaks*      
-<!-- This study proposes a new modeling approach for time series prediction after structural breaks. The method incorporates a time trend variable into non-linear predictive models to effectively handle coefficient variations over time. By optimizing bias-variance tradeoff, this approach significantly improves prediction accuracy and optimal portfolio Sharpe ratio compared to both linear and non-linear standard models. Results of Monte Carlo simulations are presented to examine the finite sample performances of the proposed procedures. Empirically, the paper demonstrates improved prediction performance in U.S. equity market return. These findings establish the rationale for the robustness of machine learning predictions with structural breaks. -->
+Solo-authored
+Abstract: This study proposes a new modeling approach for time series prediction after structural breaks. The method incorporates a time trend variable into non-linear predictive models to effectively handle coefficient variations over time. By optimizing bias-variance tradeoff, this approach significantly improves prediction accuracy and optimal portfolio Sharpe ratio compared to both linear and non-linear standard models. Results of Monte Carlo simulations are presented to examine the finite sample performances of the proposed procedures. Empirically, the paper demonstrates improved prediction performance in U.S. equity market return. These findings establish the rationale for the robustness of machine learning predictions with structural breaks.
 
 ## Work in Progress
 ### *Vector Autoregressions with Virtue of Complexity*, 2024
@@ -83,12 +92,12 @@ Service
 - 2020 Princeton Financial Economics of Insurance Workshop -->
 
 
-## Contact
+<!-- ## Contact
 Email: kangying.zhou@yale.edu      
 Tel: +1 (872)904-7871    
 Yale School of Management, Ph.D. Suite           
 165 Whitney Avenue               
-New Haven, CT 06511             
+New Haven, CT 06511              -->
 
 <!-- , Advisor: Professor [Dacheng Xiu](https://dachxiu.chicagobooth.edu/)  -->
 

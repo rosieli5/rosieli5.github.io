@@ -22,13 +22,15 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   # avatar           : "profile34.png"
+  # avatar           : "profile2to3.png" 
   avatar           : "profile2to3.png" 
   name             : "Kangying Zhou"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate at Yale SOM."
-  location         : "New Haven, CT, USA"
+  # bio              : "PhD candidate at Yale SOM."
+  bio              : "Ph.D. Candidate in Finance at Yale School of Management"
   employer         : "Yale University"
-  uri              : # URL
+  location         : "New Haven, CT, USA"
+  # uri              : # URL
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
