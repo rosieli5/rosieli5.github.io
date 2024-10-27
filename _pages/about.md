@@ -70,7 +70,7 @@ Abstract: This study proposes a new modeling approach for time series prediction
 
 ***Vector Autoregressions with Virtue of Complexity***
 
-***Publication Effect in Beliefs Formation***, with Ping Gong
+***Publication Effect in Belief Formation***, with Ping Gong
 
 
 
