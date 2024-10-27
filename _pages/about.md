@@ -40,6 +40,8 @@ I am on the 2024-2025 academic job market.
 
 ### *Active Mutual Funds and Media Narratives*
 
+Abstract: 
+
 ## Publication
 
 ### [*The Virtue of Complexity in Return Prediction*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984925)    
