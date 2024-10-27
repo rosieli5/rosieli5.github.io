@@ -68,7 +68,7 @@ __*Heterogeneous Institutions Rebalance to Corporate News*__
 
 __*Vector Autoregressions with Virtue of Complexity*__
 
-__*Publication Effects on Expectation Data*__, with Ping Gong
+__*Publication Effect in Beliefs Formation*__, with Ping Gong
 
 
 
