@@ -41,6 +41,7 @@ I am on the 2024-2025 academic job market.
 
 ## Job Market Paper
 
+### *Active Mutual Funds and Media Narratives*
 
 ## Publication
 
