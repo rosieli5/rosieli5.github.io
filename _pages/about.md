@@ -64,9 +64,13 @@ Abstract: This study proposes a new modeling approach for time series prediction
 
 ## Work in Progress
 
-### *Heterogeneous Institutions Rebalance to Corporate News*
+__*Heterogeneous Institutions Rebalance to Corporate News*__
 
-### *Vector Autoregressions with Virtue of Complexity*
+__*Vector Autoregressions with Virtue of Complexity*__
+
+__*Publication Effect in Beliefs Formation*__, with Ping Gong
+
+
 
 <!-- ### *Monetary Policy Transmission Channel via News* -->
 
