@@ -8,7 +8,7 @@ redirect_from:
 ---
 <div style="text-align: justify;" markdown="1">
 <!-- ## About             -->
-I am a sixth-year Ph.D. candidate in Finance at Yale School of Management. I conduct research on asset pricing, machine learning, natural language processing, and financial econometrics.
+I am a sixth-year Ph.D. candidate in Finance at Yale School of Management. I conduct research on asset pricing, machine learning, and natural language processing.
 
 Before Yale, I earned an M.S. in Financial Mathematics from the University of Chicago and a B.S. in Economics from Huazhong University of Science and Technology.
 
@@ -68,9 +68,10 @@ Solo-authored
 
 ***Heterogeneous Institutions Rebalance to Corporate News***
 
-***Vector Autoregressions with Virtue of Complexity***
+***Publication Effect in Belief Formation***
+with Ping Gong
 
-***Publication Effect in Belief Formation***, with Ping Gong
+***Vector Autoregressions with Virtue of Complexity***
 
 
 
