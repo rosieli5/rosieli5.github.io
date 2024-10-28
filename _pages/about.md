@@ -38,7 +38,7 @@ I am on the 2024-2025 academic job market.
 
 ## Job Market Paper
 
-### *Active Mutual Funds and Media Narratives*
+### [*Active Mutual Funds and Media Narratives*]()
 
 *Abstract*: This paper investigates the impact of media narratives on the portfolio strategies of active equity mutual funds. Using \textit{Wall Street Journal} articles from 1984 to 2023, I employ ChatGPT to distill business news into 59 distinct topics, and quantify the time-varying attention and sentiment for each one. The key empirical finding is that fund managers have high portfolio exposure to high-sentiment topics. While this strategy leads to underperformance, it nonetheless attracts investor flows, which explains its use. The topic-driven component accounts for a substantial part of the variation in the aggregate mutual fund active tilt, and is a key driver of the alpha associated with active tilt.
 
