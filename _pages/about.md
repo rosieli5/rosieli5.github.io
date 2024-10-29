@@ -10,6 +10,7 @@ redirect_from:
 <div style="text-align: justify;" markdown="1">
 
 <!-- ## About             -->
+
 I am a sixth-year Ph.D. candidate in Finance at Yale School of Management. I conduct research on asset pricing, machine learning, and natural language processing.
 
 Before Yale, I earned an M.S. in Financial Mathematics from the University of Chicago and a B.S. in Economics from Huazhong University of Science and Technology.
@@ -18,13 +19,13 @@ I am on the 2024-2025 academic job market.
 
 
 
-## Job Market Paper
+## Job Market Paper      
 
 ### [*Active Mutual Funds and Media Narratives*]()
 
 *Abstract*: I investigate the impact of media narratives on the portfolio strategies of active equity mutual funds. Using 1.5 million *Wall Street Journal* articles from 1984 to 2023, I use ChatGPT to distill business news into 59 distinct topics, and quantify the time-varying attention and sentiment associated with each one. I find that the topics that fund managers choose to have high exposure to are those with high sentiment, but not necessarily those with high attention. While this strategy leads to underperformance, it nonetheless attracts investor flows, which explains its use. Tilting toward different topics explains a substantial part of the variation in the aggregate mutual fund active tilt, and is a key driver of the negative alpha associated with active tilt.
 
-## Publication
+## Publication     
 
 ### [*The Virtue of Complexity in Return Prediction*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984925)    
 with Bryan Kelly and Semyon Malamud  
@@ -34,7 +35,7 @@ with Bryan Kelly and Semyon Malamud
 
 <!-- My Presentations: 2022 Stanford Institute for Theoretical Economics (SITE) on ``New Frontiers in Asset Pricing''; 2022 SFS Cavalcade at University of North Carolina; 2022 WOLFE Annual Global Quantitative and Macro Investment Conference; 2022 China International Risk Forum (CIRF); 2022 Hong Kong Conference for Fintech, AI, and Big Data in Business; XXI Symposium at Paderborn University, Research Symposium on Finance and Economics (RSFE); EPFL; Yale -->
 
-## Working Paper
+## Working Paper     
 ### [*The Virtue of Complexity Everywhere*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4166368)
 with Bryan Kelly and Semyon Malamud     
 
