@@ -42,7 +42,7 @@ I am on the 2024-2025 academic job market.
 
 ### [*Active Mutual Funds and Media Narratives*]()
 
-*Abstract*: I investigate the impact of media narratives on the portfolio strategies of active equity mutual funds. Using 1.5 million \textit{Wall Street Journal} articles from 1984 to 2023, I use ChatGPT to distill business news into 59 distinct topics, and quantify the time-varying attention and sentiment associated with each one. I find that the topics that fund managers choose to have high exposure to are those with high sentiment, but not necessarily those with high attention. While this strategy leads to underperformance, it nonetheless attracts investor flows, which explains its use. Tilting toward different topics explains a substantial part of the variation in the aggregate mutual fund active tilt, and is a key driver of the negative alpha associated with active tilt.
+*Abstract*: I investigate the impact of media narratives on the portfolio strategies of active equity mutual funds. Using 1.5 million *Wall Street Journal* articles from 1984 to 2023, I use ChatGPT to distill business news into 59 distinct topics, and quantify the time-varying attention and sentiment associated with each one. I find that the topics that fund managers choose to have high exposure to are those with high sentiment, but not necessarily those with high attention. While this strategy leads to underperformance, it nonetheless attracts investor flows, which explains its use. Tilting toward different topics explains a substantial part of the variation in the aggregate mutual fund active tilt, and is a key driver of the negative alpha associated with active tilt.
 
 ## Publication
 
