@@ -71,7 +71,7 @@ $(document).ready(function(){
   // if (kangyingTab.length) {
   //     kangyingTab.trigger("click"); // Use .trigger("click") to simulate a click
   // }
-  
+
   setTimeout(function() {
     $(".author__urls").show(); // Show the 'Follow' tab content
     $(".author__urls-wrapper button").addClass("open"); // Add necessary classes
@@ -82,4 +82,22 @@ $(document).ready(function(){
     }
 }, 100); // Short delay to allow elements to load
   
+});
+
+
+document.addEventListener("DOMContentLoaded", function() {
+  const followContent = document.querySelector(".author__urls");
+  if (followContent) {
+      followContent.style.display = "block"; // Show 'Follow' tab content
+  }
+
+  const followButton = document.querySelector(".author__urls-wrapper button");
+  if (followButton) {
+      followButton.classList.add("open"); // Add 'open' class to Follow button
+  }
+
+  const kangyingTab = document.querySelector(".masthead__menu .tab");
+  if (kangyingTab) {
+      kangyingTab.click(); // Simulate click directly
+  }
 });
