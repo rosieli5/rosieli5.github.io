@@ -48,10 +48,9 @@ img {
     display: block;
 }
 
-// .masthead__menu button, .navicon {
-//     display: none !important;
-// }
 
-.masthead__menu .navicon {
-    display: none !important;
+@media (min-width: 768px) { /* Adjust this size as needed */
+    .masthead__menu button, .navicon {
+        display: none !important;
+    }
 }
