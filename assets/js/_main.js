@@ -71,16 +71,6 @@ $(document).ready(function(){
   // if (kangyingTab.length) {
   //     kangyingTab.trigger("click"); // Use .trigger("click") to simulate a click
   // }
-
-  setTimeout(function() {
-    $(".author__urls").show(); // Show the 'Follow' tab content
-    $(".author__urls-wrapper button").addClass("open"); // Add necessary classes
-
-    const kangyingTab = $(".masthead__menu .tab");
-    if (kangyingTab.length) {
-        kangyingTab.trigger("click"); // Simulate a click
-    }
-}, 100); // Short delay to allow elements to load
   
 });
 
