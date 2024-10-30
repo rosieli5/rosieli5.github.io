@@ -48,9 +48,6 @@ img {
     display: block;
 }
 
-
-@media (min-width: 768px) { /* Adjust this size as needed */
-    .masthead__menu button, .navicon {
-        display: none !important;
-    }
+.masthead__menu button, .navicon {
+    display: none !important;
 }
