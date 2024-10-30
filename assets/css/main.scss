@@ -56,9 +56,15 @@ footer {
 //     display: none !important;
 // }
 
+// .masthead__menu button, .navicon {
+//     opacity: 0; /* Makes the icon invisible */
+//     pointer-events: auto; /* Ensures it remains clickable */
+//     width: 24px; /* Adjust the size as needed */
+//     height: 24px;
+// }
+
 .masthead__menu button, .navicon {
-    opacity: 0; /* Makes the icon invisible */
-    pointer-events: auto; /* Ensures it remains clickable */
-    width: 24px; /* Adjust the size as needed */
-    height: 24px;
+    visibility: hidden; /* Makes it invisible but keeps its space */
+    position: relative;
+    z-index: 1;
 }
