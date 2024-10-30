@@ -68,8 +68,8 @@ $(document).ready(function(){
       kangyingTab.trigger("click"); // Use .trigger("click") to simulate a click
   }
 
-  // Directly show the 'Follow' tab content and apply any necessary styles/classes
-  $(".author__urls").show(); // Show the 'Follow' tab content (adjust selector if needed)
-  $(".author__urls-wrapper button").addClass("open"); // Add any classes necessary to display the button's content
+  // // Directly show the 'Follow' tab content and apply any necessary styles/classes
+  // $(".author__urls").show(); // Show the 'Follow' tab content (adjust selector if needed)
+  // $(".author__urls-wrapper button").addClass("open"); // Add any classes necessary to display the button's content
 
 });
