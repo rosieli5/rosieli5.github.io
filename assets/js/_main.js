@@ -62,14 +62,24 @@ $(document).ready(function(){
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
 
-  // Directly show the 'Follow' tab content and apply any necessary styles/classes
-  $(".author__urls").show(); // Show the 'Follow' tab content (adjust selector if needed)
-  $(".author__urls-wrapper button").addClass("open"); // Add any classes necessary to display the button's content
+  // // Directly show the 'Follow' tab content and apply any necessary styles/classes
+  // $(".author__urls").show(); // Show the 'Follow' tab content (adjust selector if needed)
+  // $(".author__urls-wrapper button").addClass("open"); // Add any classes necessary to display the button's content
 
-  // Trigger a click on the "Kangying Zhou" tab to initialize elements on page load
-  const kangyingTab = $(".masthead__menu .tab"); // Replace '.tab' with the actual class or ID of "Kangying Zhou" tab
-  if (kangyingTab.length) {
-      kangyingTab.trigger("click"); // Use .trigger("click") to simulate a click
-  }
+  // // Trigger a click on the "Kangying Zhou" tab to initialize elements on page load
+  // const kangyingTab = $(".masthead__menu .tab"); // Replace '.tab' with the actual class or ID of "Kangying Zhou" tab
+  // if (kangyingTab.length) {
+  //     kangyingTab.trigger("click"); // Use .trigger("click") to simulate a click
+  // }
+  
+  setTimeout(function() {
+    $(".author__urls").show(); // Show the 'Follow' tab content
+    $(".author__urls-wrapper button").addClass("open"); // Add necessary classes
+
+    const kangyingTab = $(".masthead__menu .tab");
+    if (kangyingTab.length) {
+        kangyingTab.trigger("click"); // Simulate a click
+    }
+}, 100); // Short delay to allow elements to load
   
 });
