@@ -39,3 +39,11 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+/* Custom image styling */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
