@@ -27,7 +27,8 @@ I am on the 2024-2025 academic job market.
 
 ## Publication     
 
-### [*The Virtue of Complexity in Return Prediction*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984925)    
+<!-- ### [*The Virtue of Complexity in Return Prediction*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984925)     -->
+### [*The Virtue of Complexity in Return Prediction*](https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13298)
 with Bryan Kelly and Semyon Malamud  
 *The Journal of Finance 79, no. 1 (2024): 459-503.*      
 
