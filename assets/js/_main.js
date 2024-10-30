@@ -62,10 +62,10 @@ $(document).ready(function(){
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
 
-  // Initialize "Kangying Zhou" tab functionality on page load
-  const kangyingTab = $(".masthead__menu .tab"); // Update the selector as needed for the "Kangying Zhou" tab
+  // Trigger a click on the "Kangying Zhou" tab to initialize elements on page load
+  const kangyingTab = $(".masthead__menu .tab"); // Replace '.tab' with the actual class or ID of "Kangying Zhou" tab
   if (kangyingTab.length) {
-    kangyingTab.click(); // Simulate a click on the "Kangying Zhou" tab to initialize elements
+      kangyingTab.trigger("click"); // Use .trigger("click") instead of .click()
   }
 
 });
