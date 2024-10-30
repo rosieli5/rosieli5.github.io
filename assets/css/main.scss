@@ -48,6 +48,6 @@ img {
     display: block;
 }
 
-.navicon {
-    opacity: 0; /* Makes it invisible but still clickable */
+button .navicon, button {
+    display: none;
 }
