@@ -69,15 +69,15 @@ footer {
 //     z-index: 1;
 // }
 
-// @media (min-width: 1024px) { /* Adjust this width as needed for laptop screens */
-//     .masthead__menu button, .navicon {
-//         display: none; /* Removes the element completely on larger screens */
-//     }
-// }
-
-.masthead__menu button, .navicon {
-    display: none; /* Removes the element completely on larger screens */
+@media (min-width: 1024px) { /* Adjust this width as needed for laptop screens */
+    .masthead__menu button, .navicon {
+        display: none; /* Removes the element completely on larger screens */
+    }
 }
+
+// .masthead__menu button, .navicon {
+//     display: none; /* Removes the element completely on larger screens */
+// }
 
 .follow-button { /* Update the class name as needed */
     -webkit-appearance: button; /* Ensures it’s recognized as a button */
