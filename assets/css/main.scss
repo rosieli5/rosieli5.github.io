@@ -51,3 +51,10 @@ img {
 // .masthead__menu button, .navicon {
 //     display: none !important;
 // }
+
+.masthead__menu button, .navicon {
+    opacity: 0; /* Makes the icon invisible */
+    pointer-events: auto; /* Ensures it remains clickable */
+    width: 24px; /* Adjust the size as needed */
+    height: 24px;
+}
