@@ -63,8 +63,14 @@ footer {
 //     height: 24px;
 // }
 
-.masthead__menu button, .navicon {
-    visibility: hidden; /* Makes it invisible but keeps its space */
-    position: relative;
-    z-index: 1;
+// .masthead__menu button, .navicon {
+//     visibility: hidden; /* Makes it invisible but keeps its space */
+//     position: relative;
+//     z-index: 1;
+// }
+
+@media (min-width: 1024px) { /* Adjust this width as needed for laptop screens */
+    .masthead__menu button, .navicon {
+        display: none; /* Removes the element completely on larger screens */
+    }
 }
