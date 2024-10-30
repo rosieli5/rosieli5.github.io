@@ -48,6 +48,6 @@ img {
     display: block;
 }
 
-button .navicon, button {
-    display: none;
+.masthead__menu button, .navicon {
+    display: none !important;
 }
