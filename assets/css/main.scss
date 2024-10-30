@@ -48,8 +48,6 @@ img {
     display: block;
 }
 
-button {
-    .navicon {
-        display: none;
-    }
+.navicon {
+    visibility: hidden;
 }
