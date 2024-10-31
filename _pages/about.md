@@ -3,7 +3,7 @@ permalink: /
 # title: "About"
 author_profile: true
 redirect_from: 
-  - /about/
+  - /Home/
   - /about.html
 ---
 <div style="text-align: justify;" markdown="1">
