@@ -4,7 +4,7 @@ permalink: /
 author_profile: true
 redirect_from: 
   - /Home/
-  - /about.html
+  - /Home.html
 ---
 <div style="text-align: justify;" markdown="1">
 # About 
