@@ -6,10 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 <div style="text-align: justify;" markdown="1">
-
-<!-- ## About             -->
 # About 
 I am a sixth-year Ph.D. candidate in Finance at Yale School of Management. I conduct research on asset pricing, machine learning, and natural language processing.
 
