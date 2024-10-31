@@ -47,7 +47,7 @@ with Bryan Kelly and Semyon Malamud
 
 ## Work in Progress
 
-***Heterogeneous Institutional Rebalancing to Corporate News***
+***Heterogeneous Institutional Rebalancing to Media Narratives***
 
 ***The Publication Effect in Belief Formation***
 with Ping Gong
