@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   # - /about/
   - /Home/
-  - /Home.html
+  - /about.html
 ---
 <div style="text-align: justify;" markdown="1">
 # About 
