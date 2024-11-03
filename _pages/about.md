@@ -22,7 +22,7 @@ I am on the 2024-2025 academic job market.
 
 *Abstract*: I investigate the impact of media narratives on the portfolio strategies of active equity mutual funds. Using 1.5 million *Wall Street Journal* articles from 1984 to 2023, I use ChatGPT to distill business news into 59 distinct topics, and quantify the time-varying attention and sentiment associated with each one. I find that the topics that fund managers choose to have high exposure to are those with high sentiment, but not necessarily those with high attention. While this strategy leads to underperformance, it nonetheless attracts investor flows, which explains its use. Tilting toward different topics explains a substantial part of the variation in the aggregate mutual fund active tilt, and is a key driver of the negative alpha associated with active tilt.
 
-## Publication     
+## Publications     
 
 <!-- ### [*The Virtue of Complexity in Return Prediction*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984925)     -->
 ### [*The Virtue of Complexity in Return Prediction*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984925)
@@ -33,7 +33,7 @@ with Bryan Kelly and Semyon Malamud
 
 <!-- My Presentations: 2022 Stanford Institute for Theoretical Economics (SITE) on ``New Frontiers in Asset Pricing''; 2022 SFS Cavalcade at University of North Carolina; 2022 WOLFE Annual Global Quantitative and Macro Investment Conference; 2022 China International Risk Forum (CIRF); 2022 Hong Kong Conference for Fintech, AI, and Big Data in Business; XXI Symposium at Paderborn University, Research Symposium on Finance and Economics (RSFE); EPFL; Yale -->
 
-## Working Paper     
+## Working Papers     
 ### [*The Virtue of Complexity Everywhere*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4166368)
 with Bryan Kelly and Semyon Malamud     
 
@@ -45,7 +45,7 @@ with Bryan Kelly and Semyon Malamud
 *Abstract*: I propose a new modeling approach for time series prediction after structural breaks. The method incorporates a time trend variable into non-linear predictive models to effectively handle coefficient variations over time. By optimizing the bias-variance tradeoff, this approach significantly improves prediction accuracy and optimal portfolio Sharpe ratio compared to both linear and non-linear standard models. I construct Monte Carlo simulations to examine the finite sample performance of the proposed procedures. Empirically, the paper demonstrates improved prediction performance for U.S. equity market returns. These findings establish the robustness of machine learning predictions in the presence of structural breaks.
 
 
-## Work in Progress
+## Works in Progress
 
 ***Heterogeneous Investor Exposure to Media Narratives***
 
