@@ -18,7 +18,8 @@ I am on the 2024-2025 academic job market.
 
 ## Job Market Paper      
 
-### [*Active Mutual Funds and Media Narratives*](https://www.dropbox.com/scl/fi/j3sw8yefim6ld42hqeply/JMP_KangyingZhou.pdf?rlkey=l7fm0d762hyu69nqo6m982szt&st=r3yoipyu&dl=0)
+### [*Active Mutual Funds and Media Narratives*](https://kangying-zhou.github.io/files/JMP_KangyingZhou.pdf)
+<!-- (https://www.dropbox.com/scl/fi/j3sw8yefim6ld42hqeply/JMP_KangyingZhou.pdf?rlkey=l7fm0d762hyu69nqo6m982szt&st=r3yoipyu&dl=0) -->
 
 *Abstract*: I investigate the impact of media narratives on the portfolio strategies of active equity mutual funds. Using 1.5 million *Wall Street Journal* articles from 1984 to 2023, I use ChatGPT to distill media narratives into 59 distinct topics, and quantify each one's time-varying attention and sentiment. I find that mutual funds increase their exposure to topics with high sentiment, but not necessarily to those with high attention. While this strategy leads to mutual fund underperformance, it also attracts investor flows. Topic-oriented exposures account for a large fraction of the variation in mutual fund tilts, and are a key driver of the negative alpha associated with active tilts.
 
