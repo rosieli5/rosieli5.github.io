@@ -44,22 +44,15 @@ with Bryan Kelly and Semyon Malamud
 
 *Abstract*: I propose a new modeling approach for time series prediction after structural breaks. The method incorporates a time trend variable into non-linear predictive models to effectively handle coefficient variations over time. By optimizing the bias-variance tradeoff, this approach significantly improves prediction accuracy and optimal portfolio Sharpe ratio compared to both linear and non-linear standard models. I construct Monte Carlo simulations to examine the finite sample performance of the proposed procedures. Empirically, the paper demonstrates improved prediction performance for U.S. equity market returns. These findings establish the robustness of machine learning predictions in the presence of structural breaks.
 
-
 <!-- ## Works in Progress
-
 ***Heterogeneous Investor Exposure to Media Narratives***
-
 ***The Publication Effect in Belief Formation***
 with Ping Gong
-
 ***Vector Autoregressions with Virtue of Complexity*** -->
-
-
 <!-- ## Education               
 - Ph.D. in Financial Economics, Yale University, 2019–2025 (Expectd), Advisor: Professor [Bryan Kelly](https://www.bryankellyacademic.org/)                  
 - M.S. in Financial Mathematics, The University of Chicago, 2016–2017       
 - B.A. in Economics, Huazhong University of Science and Technology, 2012 - 2016 -->
-
 <!-- ## Work Experience
 - Bloomberg LP       
     Data Scientist in Chief Technology Office, 2019   
@@ -67,7 +60,6 @@ with Ping Gong
     Quantitative Analyst, 2018   
 - Booth School of Business, The University of Chicago         
     Research Assistant for Professor Dacheng Xiu, 2017 - 2019    -->
-
 <!-- ## Awards
 - Research Excellence Award, CIRF Lindner College of Business, 2022
 - Best Paper Award, Hong Kong Conference for Fintech, AI, and Big Data in Business, 2022
@@ -75,16 +67,12 @@ with Ping Gong
 - Travel Grant, Wolfe Annual Global Quantitative and Macro Investment Conference, 2022                  
 - Travel Grant, Adam Smith Workshop, 2022
 - Graduate Fellowship, Yale, 2019 - 2024 -->
-
 <!-- ### *Monetary Policy Transmission Channel via News* -->
-
-
 <!-- Teaching Experience  
 ------
 Yale School of Management, Teaching Assistant
   - Empirical Asset Pricing: Professor Bryan Kelly (Ph.D., Fall 2021)    
   - Financial Econometrics and Machine Learning: Professor Bryan Kelly (MBA, Fall 2022, Fall 2023)
-
 Service
 ------
 - Discussion
@@ -94,7 +82,6 @@ Service
   - U.S. National Science Foundation (NSF)
   - Journal of Banking and Finance
   - Emerging Markets Review -->
-
 <!-- Participation
 ------
 - 2023 Deep Learning for Solving and Estimating Dynamic Models (DSE) Summer School
@@ -104,14 +91,10 @@ Service
 - 2021 NBER Entrepreneurship Research Boot Camp
   - NBER Economics of Artificial Intelligence (AI) Conference
 - 2020 Princeton Financial Economics of Insurance Workshop -->
-
-
 <!-- ## Contact
 Email: kangying.zhou@yale.edu      
 Tel: +1 (872)904-7871    
 Yale School of Management, Ph.D. Suite           
 165 Whitney Avenue               
 New Haven, CT 06511              -->
-
 <!-- , Advisor: Professor [Dacheng Xiu](https://dachxiu.chicagobooth.edu/)  -->
-
