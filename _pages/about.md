@@ -45,14 +45,14 @@ with Bryan Kelly and Semyon Malamud
 *Abstract*: I propose a new modeling approach for time series prediction after structural breaks. The method incorporates a time trend variable into non-linear predictive models to effectively handle coefficient variations over time. By optimizing the bias-variance tradeoff, this approach significantly improves prediction accuracy and optimal portfolio Sharpe ratio compared to both linear and non-linear standard models. I construct Monte Carlo simulations to examine the finite sample performance of the proposed procedures. Empirically, the paper demonstrates improved prediction performance for U.S. equity market returns. These findings establish the robustness of machine learning predictions in the presence of structural breaks.
 
 
-## Works in Progress
+<!-- ## Works in Progress
 
 ***Heterogeneous Investor Exposure to Media Narratives***
 
 ***The Publication Effect in Belief Formation***
 with Ping Gong
 
-***Vector Autoregressions with Virtue of Complexity***
+***Vector Autoregressions with Virtue of Complexity*** -->
 
 
 <!-- ## Education               
