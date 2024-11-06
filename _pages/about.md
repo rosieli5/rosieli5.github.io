@@ -40,7 +40,7 @@ with Bryan Kelly and Semyon Malamud
 
 *Abstract*: We investigate the performance of non-linear return prediction models in the high complexity regime, i.e., when the number of model parameters exceeds the number of observations. We document a "virtue of complexity" in all asset classes that we study (US equities, international equities, bonds, commodities, currencies, and interest rates). Specifically, return prediction R-squared and optimal portfolio Sharpe ratio generally increase with model parameterization for every asset class. The virtue of complexity is present even in extremely data-scarce environments, e.g., for predictive models with less than twenty observations and tens of thousands of predictors. The empirical association between model complexity and out-of-sample model performance exhibits a striking consistency with theoretical predictions.
 
-### [*Robust Prediction after Structural Breaks*]()      
+### *Robust Prediction after Structural Breaks*[Draft Available Upon Request]    
 <!-- Solo-authored -->
 
 *Abstract*: I propose a new modeling approach for time series prediction after structural breaks. The method incorporates a time trend variable into non-linear predictive models to effectively handle coefficient variations over time. By optimizing the bias-variance tradeoff, this approach significantly improves prediction accuracy and optimal portfolio Sharpe ratio compared to both linear and non-linear standard models. I construct Monte Carlo simulations to examine the finite sample performance of the proposed procedures. Empirically, the paper demonstrates improved prediction performance for U.S. equity market returns. These findings establish the robustness of machine learning predictions in the presence of structural breaks.
