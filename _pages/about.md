@@ -10,8 +10,7 @@ redirect_from:
 <div style="text-align: justify;" markdown="1">
 # About 
 I am a Ph.D. candidate in Finance at Yale School of Management. I conduct research on asset pricing, machine learning, and natural language processing.
-
-Before Yale, I earned an M.S. in Financial Mathematics from the University of Chicago and a B.S. in Economics from Huazhong University of Science and Technology.
+<!-- Before Yale, I earned an M.S. in Financial Mathematics from the University of Chicago and a B.S. in Economics from Huazhong University of Science and Technology. -->
 
 I am on the 2024-2025 academic job market. 
 
