@@ -17,10 +17,10 @@ I am on the 2024-2025 academic job market.
 
 ## Job Market Paper      
 
-### [*Active Mutual Funds and Media Narratives*](https://kangying-zhou.github.io/files/JMP_KangyingZhou.pdf)
+### [*Professional Investors and Media Narrativess*](https://kangying-zhou.github.io/files/JMP_KangyingZhou.pdf)
 <!-- (https://www.dropbox.com/scl/fi/j3sw8yefim6ld42hqeply/JMP_KangyingZhou.pdf?rlkey=l7fm0d762hyu69nqo6m982szt&st=r3yoipyu&dl=0) -->
 
-*Abstract*: I investigate the impact of media narratives on the portfolio strategies of active equity mutual funds. Using 1.5 million *Wall Street Journal* articles from 1984 to 2023, I use ChatGPT to distill media narratives into 59 distinct topics, and quantify each one's time-varying attention and sentiment. I find that mutual funds increase their exposure to topics with high sentiment, but not necessarily to those with high attention. While this strategy leads to mutual fund underperformance, it also attracts investor flows. Topic-oriented exposures account for a large fraction of the variation in mutual fund tilts, and are a key driver of the negative alpha associated with active tilts.
+*Abstract*: I investigate the impact of media narratives on the portfolio strategies of active equity mutual funds. Using 1.5 million *Wall Street Journal* articles from 1984 to 2023, I use ChatGPT to distill media narratives into 59 distinct topics, and quantify each topic's time-varying share of news attention and sentiment. I then define a fund as having exposure to a topic if it overweights stocks expected to perform well when the topic grows in importance, and hence attention. I find that the topics that fund managers choose to have high exposure to are high-sentiment topics, but not those with high attention. This strategy leads to mutual fund underperformance but attracts investor flows. Topic-oriented strategies account for a large fraction, specifically 37\%, of mutual fund tilts, and are a key driver of the underperformance associated with active tilts.
 
 ## Publications     
 
