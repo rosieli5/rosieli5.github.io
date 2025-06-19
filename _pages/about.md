@@ -12,7 +12,7 @@ redirect_from:
 I am a Ph.D. candidate in Finance at Yale School of Management. I conduct research on asset pricing, machine learning, and natural language processing.
 <!-- Before Yale, I earned an M.S. in Financial Mathematics from the University of Chicago and a B.S. in Economics from Huazhong University of Science and Technology. -->
 
-I am on the 2024-2025 academic job market. 
+I will be joining the Mays Business School at Texas A&M University in Fall 2025.
 
 
 ## Job Market Paper      
