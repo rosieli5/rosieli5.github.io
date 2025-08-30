@@ -27,9 +27,9 @@ author:
   name             : "Kangying Zhou"
   pronouns         : # example: "she/her"  
   # bio              : "PhD candidate at Yale SOM."
-  bio              : "Ph.D. Candidate in Financial Economics at Yale School of Management"
+  bio              : "Assistant Professor of Finance"
   # employer         : "Yale University"
-  location         : "New Haven, CT, USA"
+  location         : "College Station, TX, USA"
   # uri              : # URL
 
   # Academic websites
@@ -40,7 +40,7 @@ author:
   semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-  email            : "kangying.zhou@yale.edu" 
+  email            : "kangying.zhou@tamu.edu" 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
