@@ -9,10 +9,10 @@ redirect_from:
 ---
 <div style="text-align: justify;" markdown="1">
 # About 
-I am a Ph.D. candidate in Finance at Yale School of Management. I conduct research on asset pricing, machine learning, and natural language processing.
+I am an Assistant Professor of Finance at Texas A&M University Mays Business School. I obtained my Ph.D. in Financial Economics from Yale School of Management. I conduct research on asset pricing, machine learning, and natural language processing.
 <!-- Before Yale, I earned an M.S. in Financial Mathematics from the University of Chicago and a B.S. in Economics from Huazhong University of Science and Technology. -->
 
-I will be joining the Mays Business School at Texas A&M University in Fall 2025.
+<!-- I will be joining the Mays Business School at Texas A&M University in Fall 2025. -->
 
 
 ## Job Market Paper      
