@@ -15,12 +15,6 @@ I am an Assistant Professor of Finance at Texas A&M University Mays Business Sch
 <!-- I will be joining the Mays Business School at Texas A&M University in Fall 2025. -->
 
 
-## Job Market Paper      
-
-### [*Professional Investors and Media Narrativess*](https://kangying-zhou.github.io/files/JMP_KangyingZhou.pdf)
-<!-- (https://www.dropbox.com/scl/fi/j3sw8yefim6ld42hqeply/JMP_KangyingZhou.pdf?rlkey=l7fm0d762hyu69nqo6m982szt&st=r3yoipyu&dl=0) -->
-
-*Abstract*: I investigate the impact of media narratives on the portfolio strategies of active equity mutual funds. Using 1.5 million *Wall Street Journal* articles from 1984 to 2023, I use ChatGPT to distill media narratives into 59 distinct topics, and quantify each topic's time-varying share of news attention and sentiment. I then define a fund as having exposure to a topic if it overweights stocks expected to perform well when the topic grows in importance, and hence attention. I find that the topics that fund managers choose to have high exposure to are high-sentiment topics, but not those with high attention. This strategy leads to mutual fund underperformance but attracts investor flows. Topic-oriented strategies account for a large fraction, specifically 37%, of mutual fund tilts, and are a key driver of the underperformance associated with active tilts.
 
 ## Publications     
 
@@ -34,6 +28,13 @@ with Bryan Kelly and Semyon Malamud
 <!-- My Presentations: 2022 Stanford Institute for Theoretical Economics (SITE) on ``New Frontiers in Asset Pricing''; 2022 SFS Cavalcade at University of North Carolina; 2022 WOLFE Annual Global Quantitative and Macro Investment Conference; 2022 China International Risk Forum (CIRF); 2022 Hong Kong Conference for Fintech, AI, and Big Data in Business; XXI Symposium at Paderborn University, Research Symposium on Finance and Economics (RSFE); EPFL; Yale -->
 
 ## Working Papers     
+
+### [*Professional Investors and Media Narrativess*](https://kangying-zhou.github.io/files/JMP_KangyingZhou.pdf)
+<!-- (https://www.dropbox.com/scl/fi/j3sw8yefim6ld42hqeply/JMP_KangyingZhou.pdf?rlkey=l7fm0d762hyu69nqo6m982szt&st=r3yoipyu&dl=0) -->
+
+*Abstract*: I investigate the impact of media narratives on the portfolio strategies of active equity mutual funds. Using 1.5 million *Wall Street Journal* articles from 1984 to 2023, I use ChatGPT to distill media narratives into 59 distinct topics, and quantify each topic's time-varying share of news attention and sentiment. I then define a fund as having exposure to a topic if it overweights stocks expected to perform well when the topic grows in importance, and hence attention. I find that the topics that fund managers choose to have high exposure to are high-sentiment topics, but not those with high attention. This strategy leads to mutual fund underperformance but attracts investor flows. Topic-oriented strategies account for a large fraction, specifically 37%, of mutual fund tilts, and are a key driver of the underperformance associated with active tilts.
+
+
 ### [*The Virtue of Complexity Everywhere*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4166368)
 with Bryan Kelly and Semyon Malamud     
 
