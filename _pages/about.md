@@ -25,11 +25,11 @@ with Douglas Harris, Lihan Liu and Nathan Barrett
 
 ## Working Papers     
 
-### [*The Impact of Open Enrollment on the Capitalization of Neighborhood School Quality in Housing Prices*]
+<!-- ### [*The Impact of Open Enrollment on the Capitalization of Neighborhood School Quality in Housing Prices*]
 <!-- (https://kangying-zhou.github.io/files/JMP_KangyingZhou.pdf)
 <!-- (https://www.dropbox.com/scl/fi/j3sw8yefim6ld42hqeply/JMP_KangyingZhou.pdf?rlkey=l7fm0d762hyu69nqo6m982szt&st=r3yoipyu&dl=0) -->
 
-*Abstract*: Coming soon.
+<!-- *Abstract*: Coming soon.
 
 ### [*The Impact of Elementary School Teachers on Middle School Quality under School Choice*]
 
@@ -39,4 +39,4 @@ with Douglas Harris, Lihan Liu and Nathan Barrett
 [Draft Available Upon Request]     
 <!-- Solo-authored -->
 
-*Abstract*: This paper examines the potential non-linear effects of teachers across elementary school grades on middle school academic outcomes by addressing two key questions: First, within grades 3 through 5, are teachers from certain grades more influential than others on middle school test scores? Second, are there interaction effects from having multiple high or low value-added (VA) teachers? The existing teacher value-added literature generally assumes that teacher effects are homogeneous and additive across grades. I test this assumption by adopting a human capital production function framework, treating teacher value-added from different elementary grades as distinct inputs. Using large administrative data from North Carolina, I apply a statistical model that allows for grade-specific teacher effects and interactions between teachers in grades 3, 4, and 5. I find no significant differences in teacher effects across grades, nor any notable interaction effects from having multiple high- or low-value-added (VA) teachers. These results suggest that more evenly distributing high value-added teachers across grades 3 through 5 could improve equity without compromising efficiency, compared to the current system, which resembles random assignment.
+<!-- *Abstract*: This paper examines the potential non-linear effects of teachers across elementary school grades on middle school academic outcomes by addressing two key questions: First, within grades 3 through 5, are teachers from certain grades more influential than others on middle school test scores? Second, are there interaction effects from having multiple high or low value-added (VA) teachers? The existing teacher value-added literature generally assumes that teacher effects are homogeneous and additive across grades. I test this assumption by adopting a human capital production function framework, treating teacher value-added from different elementary grades as distinct inputs. Using large administrative data from North Carolina, I apply a statistical model that allows for grade-specific teacher effects and interactions between teachers in grades 3, 4, and 5. I find no significant differences in teacher effects across grades, nor any notable interaction effects from having multiple high- or low-value-added (VA) teachers. These results suggest that more evenly distributing high value-added teachers across grades 3 through 5 could improve equity without compromising efficiency, compared to the current system, which resembles random assignment.
