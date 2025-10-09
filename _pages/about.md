@@ -9,94 +9,34 @@ redirect_from:
 ---
 <div style="text-align: justify;" markdown="1">
 # About 
-I am an Assistant Professor of Finance at Texas A&M University Mays Business School. I obtained my Ph.D. in Financial Economics from Yale School of Management. I conduct research on asset pricing, machine learning, and natural language processing.
-<!-- Before Yale, I earned an M.S. in Financial Mathematics from the University of Chicago and a B.S. in Economics from Huazhong University of Science and Technology. -->
-
-<!-- I will be joining the Mays Business School at Texas A&M University in Fall 2025. -->
-
+I am a PhD candidate in Economics at Yale University. My fields of interest are Labor Economics and Urban Economics, with a focus on Economics of Education.
+<!-- Before Yale, I earned a B.S. in Economics and B.A. in Sociology from Tulane University. -->
 
 
 ## Publications     
 
-<!-- ### [*The Virtue of Complexity in Return Prediction*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984925)     -->
-### [*The Virtue of Complexity in Return Prediction*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3984925)
-with Bryan Kelly and Semyon Malamud  
-*The Journal of Finance 79, no. 1 (2024): 459-503.* [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13298)      
+### [*Is the rise in high school graduation rates real? High-stakes school accountability and strategic behavior*](https://www.sciencedirect.com/science/article/pii/S0927537123000301)
+with Douglas Harris, Lihan Liu and Nathan Barrett
+*Labour Economics 82, Article 102355 (2023).* [Link](https://www.sciencedirect.com/science/article/pii/S0927537123000301)      
 
-*Abstract*: Much of the extant literature predicts market returns with “simple” models that use only a few parameters. Contrary to conventional wisdom, we theoretically prove that simple models severely understate return predictability compared to “complex” models in which the number of parameters *exceeds* the number of observations. We empirically document the virtue of complexity in US equity market return prediction. Our findings establish the rationale for modeling expected returns through machine learning. 
+*Abstract*: This paper examines the impact of No Child Left Behind on graduation rates, by comparing districts below and above state graduation rate targets. It finds that districts below targets experience larger growth in graduation rates after the NCLB reform. Further, it analyzes detailed data on graduation codes in Louisiana, to show that strategic behaviors like non-verifiable exits and remedial courses are not the main drivers of the increase in graduation rates.
 
 <!-- My Presentations: 2022 Stanford Institute for Theoretical Economics (SITE) on ``New Frontiers in Asset Pricing''; 2022 SFS Cavalcade at University of North Carolina; 2022 WOLFE Annual Global Quantitative and Macro Investment Conference; 2022 China International Risk Forum (CIRF); 2022 Hong Kong Conference for Fintech, AI, and Big Data in Business; XXI Symposium at Paderborn University, Research Symposium on Finance and Economics (RSFE); EPFL; Yale -->
 
 ## Working Papers     
 
-### [*Professional Investors and Media Narrativess*](https://kangying-zhou.github.io/files/JMP_KangyingZhou.pdf)
+### [*The Impact of Open Enrollment on the Capitalization of Neighborhood School Quality in Housing Prices*]
+<!-- (https://kangying-zhou.github.io/files/JMP_KangyingZhou.pdf)
 <!-- (https://www.dropbox.com/scl/fi/j3sw8yefim6ld42hqeply/JMP_KangyingZhou.pdf?rlkey=l7fm0d762hyu69nqo6m982szt&st=r3yoipyu&dl=0) -->
 
-*Abstract*: I investigate the impact of media narratives on the portfolio strategies of active equity mutual funds. Using 1.5 million *Wall Street Journal* articles from 1984 to 2023, I use ChatGPT to distill media narratives into 59 distinct topics, and quantify each topic's time-varying share of news attention and sentiment. I then define a fund as having exposure to a topic if it overweights stocks expected to perform well when the topic grows in importance, and hence attention. I find that the topics that fund managers choose to have high exposure to are high-sentiment topics, but not those with high attention. This strategy leads to mutual fund underperformance but attracts investor flows. Topic-oriented strategies account for a large fraction, specifically 37%, of mutual fund tilts, and are a key driver of the underperformance associated with active tilts.
+*Abstract*: Coming soon.
 
+### [*The Impact of Elementary School Teachers on Middle School Quality under School Choice*]
 
-### [*The Virtue of Complexity Everywhere*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4166368)
-with Bryan Kelly and Semyon Malamud     
+*Abstract*: Previous literature has found that teachers meaningfully impact the test scores and academic behaviors of students. I find that teachers can also influence the schooling decisions of students in educational environments with school choice. I analyze three distinct contexts that reflect popular school choice policies using administrative data in North Carolina: (1) charter or magnet schools versus traditional public schools, (2) schools in Charlotte before and after the open enrollment reform, (3) schools in Charlotte impacted by No Child Left Behind (NCLB) that were required to offer alternative school options versus non-NCLB schools in Charlotte. In each, I assess how teachers’ test-score value-added (VA)—a measure of their ability to improve student test scores from the beginning to the end of the school year—affects the quality of middle schools attended by their students. In all three settings, I find evidence of stronger effects of teacher VA on middle school quality in schools with more choice, relative to schools with less choice. Random effect analyses suggest that teachers could explain up to 10% of the variation in student middle school quality in choice-rich environments. I provide suggestive evidence that teacher counseling may play a role. I show that improved test scores explain only a small portion of the observed effects, while higher teacher VA is associated with a broader range of schools selected by students. These findings suggest that as school choice expands, disparities in teacher quality have broader consequences beyond test scores, potentially amplifying educational inequalities through differences in school selection guidance.
 
-*Abstract*: We investigate the performance of non-linear return prediction models in the high complexity regime, i.e., when the number of model parameters exceeds the number of observations. We document a "virtue of complexity" in all asset classes that we study (US equities, international equities, bonds, commodities, currencies, and interest rates). Specifically, return prediction R-squared and optimal portfolio Sharpe ratio generally increase with model parameterization for every asset class. The virtue of complexity is present even in extremely data-scarce environments, e.g., for predictive models with less than twenty observations and tens of thousands of predictors. The empirical association between model complexity and out-of-sample model performance exhibits a striking consistency with theoretical predictions.
-
-### *Robust Prediction after Structural Breaks* 
+### *The Effect of Teacher Allocations in Grades 3 through 5 on Middle School Academic Outcomes* 
 [Draft Available Upon Request]     
 <!-- Solo-authored -->
 
-*Abstract*: I propose a new modeling approach for time series prediction after structural breaks. The method incorporates a time trend variable into non-linear predictive models to effectively handle coefficient variations over time. By optimizing the bias-variance tradeoff, this approach significantly improves prediction accuracy and optimal portfolio Sharpe ratio compared to both linear and non-linear standard models. I construct Monte Carlo simulations to examine the finite sample performance of the proposed procedures. Empirically, the paper demonstrates improved prediction performance for U.S. equity market returns. These findings establish the robustness of machine learning predictions in the presence of structural breaks.
-
-<!-- ## Works in Progress
-***Heterogeneous Investor Exposure to Media Narratives***
-***The Publication Effect in Belief Formation***
-with Ping Gong
-***Vector Autoregressions with Virtue of Complexity*** -->
-<!-- ## Education               
-- Ph.D. in Financial Economics, Yale University, 2019–2025 (Expectd), Advisor: Professor [Bryan Kelly](https://www.bryankellyacademic.org/)                  
-- M.S. in Financial Mathematics, The University of Chicago, 2016–2017       
-- B.A. in Economics, Huazhong University of Science and Technology, 2012 - 2016 -->
-<!-- ## Work Experience
-- Bloomberg LP       
-    Data Scientist in Chief Technology Office, 2019   
-- Sheffield Asset Management, L.L.C.      
-    Quantitative Analyst, 2018   
-- Booth School of Business, The University of Chicago         
-    Research Assistant for Professor Dacheng Xiu, 2017 - 2019    -->
-<!-- ## Awards
-- Research Excellence Award, CIRF Lindner College of Business, 2022
-- Best Paper Award, Hong Kong Conference for Fintech, AI, and Big Data in Business, 2022
-- Travel Grant, Stanford Institute for Theoretical Economics (SITE), 2022
-- Travel Grant, Wolfe Annual Global Quantitative and Macro Investment Conference, 2022                  
-- Travel Grant, Adam Smith Workshop, 2022
-- Graduate Fellowship, Yale, 2019 - 2024 -->
-<!-- ### *Monetary Policy Transmission Channel via News* -->
-<!-- Teaching Experience  
-------
-Yale School of Management, Teaching Assistant
-  - Empirical Asset Pricing: Professor Bryan Kelly (Ph.D., Fall 2021)    
-  - Financial Econometrics and Machine Learning: Professor Bryan Kelly (MBA, Fall 2022, Fall 2023)
-Service
-------
-- Discussion
-  - 2022 “Does the Mad Money Show cause investors to go madly attentive?” (Kryzanowski and Rouhghalandari) at Research Symposium on Finance and Economics (RSFE)      
-  - “E-commerce Livestream, Social Interaction, and Equity Returns” (Chang and Cong) at China International Risk Forum (CIRF)    
-- Referee      
-  - U.S. National Science Foundation (NSF)
-  - Journal of Banking and Finance
-  - Emerging Markets Review -->
-<!-- Participation
-------
-- 2023 Deep Learning for Solving and Estimating Dynamic Models (DSE) Summer School
-  - Ken Singleton Celebration at Stanford Graduate School of Business
-- 2022 Adam Smith Asset Pricing Conference at INSEAD
-  - Macro Finance Society Virtual Summer School
-- 2021 NBER Entrepreneurship Research Boot Camp
-  - NBER Economics of Artificial Intelligence (AI) Conference
-- 2020 Princeton Financial Economics of Insurance Workshop -->
-<!-- ## Contact
-Email: kangying.zhou@yale.edu      
-Tel: +1 (872)904-7871    
-Yale School of Management, Ph.D. Suite           
-165 Whitney Avenue               
-New Haven, CT 06511              -->
-<!-- , Advisor: Professor [Dacheng Xiu](https://dachxiu.chicagobooth.edu/)  -->
+*Abstract*: This paper examines the potential non-linear effects of teachers across elementary school grades on middle school academic outcomes by addressing two key questions: First, within grades 3 through 5, are teachers from certain grades more influential than others on middle school test scores? Second, are there interaction effects from having multiple high or low value-added (VA) teachers? The existing teacher value-added literature generally assumes that teacher effects are homogeneous and additive across grades. I test this assumption by adopting a human capital production function framework, treating teacher value-added from different elementary grades as distinct inputs. Using large administrative data from North Carolina, I apply a statistical model that allows for grade-specific teacher effects and interactions between teachers in grades 3, 4, and 5. I find no significant differences in teacher effects across grades, nor any notable interaction effects from having multiple high- or low-value-added (VA) teachers. These results suggest that more evenly distributing high value-added teachers across grades 3 through 5 could improve equity without compromising efficiency, compared to the current system, which resembles random assignment.
