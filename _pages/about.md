@@ -23,7 +23,7 @@ with Douglas Harris, Lihan Liu and Nathan Barrett
 
 <!-- My Presentations: 2022 Stanford Institute for Theoretical Economics (SITE) on ``New Frontiers in Asset Pricing''; 2022 SFS Cavalcade at University of North Carolina; 2022 WOLFE Annual Global Quantitative and Macro Investment Conference; 2022 China International Risk Forum (CIRF); 2022 Hong Kong Conference for Fintech, AI, and Big Data in Business; XXI Symposium at Paderborn University, Research Symposium on Finance and Economics (RSFE); EPFL; Yale -->
 
-## Working Papers     
+<!-- ## Working Papers -->    
 
 <!-- ### [*The Impact of Open Enrollment on the Capitalization of Neighborhood School Quality in Housing Prices*]
 <!-- (https://kangying-zhou.github.io/files/JMP_KangyingZhou.pdf)
