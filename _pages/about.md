@@ -14,12 +14,16 @@ I am a PhD candidate in Economics at Yale University. My fields of interest are 
   
 My research examines how school choice policies reshape communities and their implications for inequality. Using large-scale linked datasets, I trace these effects through housing markets, residential location patterns, teacher-student interactions, and school selection decisions.
 
+I am on the 2025-2026 job market.
+
+# Research
 ## Working Papers     
 
 ### *The Impact of Open Enrollment on the Capitalization of Neighborhood School Quality in Housing Prices*
 <!-- (https://kangying-zhou.github.io/files/JMP_KangyingZhou.pdf)
 <!-- (https://www.dropbox.com/scl/fi/j3sw8yefim6ld42hqeply/JMP_KangyingZhou.pdf?rlkey=l7fm0d762hyu69nqo6m982szt&st=r3yoipyu&dl=0) -->
-
+<div class="toggle-button" onclick="toggleAbstract('abstract1')">Abstract: Click to expand</div>
+<div id="abstract1" class="abstract">
 *Abstract*: The traditional neighborhood school system ties students’ K12 school assignment to their residence. One consequence of this system is that neighborhood school quality is capitalized into housing prices. Another implication is that residential sorting is created or reinforced across school borders. In recent decades, open enrollment policies, which allow students to apply for transfers to public schools outside of their attendance zones, have expanded significantly as a means to break the deterministic link between schools of attendance and residential locations. I study the impact of open enrollment on the capitalization of neighborhood school quality in housing prices across large U.S. school districts. I also examine its impact on residential sorting across school attendance boundaries.
 
 I create a new dataset on open enrollment policies by collecting current (2025) policy information from 235 large school districts and combining it with historical policy data from 2012 (available through IPUMS). The share of these districts offering open enrollment grew dramatically from 11% in 2012 to 76% in 2025. Because these 235 districts educate a substantial portion of U.S. students, this translates to at least 3% of all elementary school students having access to open enrollment in 2012, rising to at least 22% by 2025 nationwide. I also link L2 voter data with Corelogic property transaction data to obtain demographic information of home buyers.
@@ -27,6 +31,7 @@ I create a new dataset on open enrollment policies by collecting current (2025) 
 To evaluate the impact over time, I employ spatial boundary discontinuity (RD) models at the level of individual school attendance borders to obtain causal estimates of capitalization effects, comparing houses in geographical proximity but assigned to different schools. Then, I combine this spatial RD with a difference-in-differences approach to examine changes in capitalization effects after 2015. I compare districts that adopted open enrollment to those that did not, using data from a large number of districts across the U.S. I use the same research design to examine the effect of open enrollment on residential sorting, specifically on the income and race of home buyers.
 
 I find that open enrollment reduces the housing price premium for high-quality neighborhood schools by over one third. Specifically, districts implementing open enrollment, relative to districts without open enrollment, experienced a 1.7 percentage-point decline in neighborhood school quality capitalization effects estimated at around 4.5% for one standard deviation of school quality in the initial period. I find that districts with open enrollment experienced a larger decline in the income gap between buyers on different sides of attendance boundaries. The findings additionally suggest evidence of increased economic integration across attendance boundaries.
+</div>
 
 ### *The Impact of Teachers on Academic Decision Making: The Case of School Choice*
 
