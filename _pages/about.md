@@ -19,7 +19,7 @@ I am on the 2025-2026 job market.
 # Research
 ## Working Papers     
 
-### *The Impact of Open Enrollment on the Capitalization of Neighborhood School Quality in Housing Prices* [Job Market Paper]
+### *The Impact of Open Enrollment on the Capitalization of Neighborhood School Quality in Housing Prices* (JMP)
 <!-- (https://kangying-zhou.github.io/files/JMP_KangyingZhou.pdf)
 <!-- (https://www.dropbox.com/scl/fi/j3sw8yefim6ld42hqeply/JMP_KangyingZhou.pdf?rlkey=l7fm0d762hyu69nqo6m982szt&st=r3yoipyu&dl=0) -->
 
