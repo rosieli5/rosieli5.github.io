@@ -13,6 +13,8 @@ I am a PhD candidate in Economics at Yale University. My fields of interest are 
 <!-- Before Yale, I earned a B.S. in Economics and B.A. in Sociology from Tulane University. -->
 My research examines how school choice policies reshape communities and their implications for inequality. Using large-scale linked datasets, I trace these effects through housing markets, residential location patterns, teacher-student interactions, and school selection decisions.
 
+## Working Papers     
+
 ### *The Impact of Open Enrollment on the Capitalization of Neighborhood School Quality in Housing Prices*
 <!-- (https://kangying-zhou.github.io/files/JMP_KangyingZhou.pdf)
 <!-- (https://www.dropbox.com/scl/fi/j3sw8yefim6ld42hqeply/JMP_KangyingZhou.pdf?rlkey=l7fm0d762hyu69nqo6m982szt&st=r3yoipyu&dl=0) -->
