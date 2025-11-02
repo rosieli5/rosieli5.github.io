@@ -41,14 +41,14 @@ I find that open enrollment reduces the housing price premium for high-quality n
 
 ## Publications     
 
-### [*Is the rise in high school graduation rates real? High-stakes school accountability and strategic behavior*](https://www.sciencedirect.com/science/article/pii/S0927537123000301)
+### *Is the rise in high school graduation rates real? High-stakes school accountability and strategic behavior*(https://www.sciencedirect.com/science/article/pii/S0927537123000301)
 with Douglas Harris, Lihan Liu and Nathan Barrett
 *Labour Economics 82, Article 102355 (2023).* [Link](https://www.sciencedirect.com/science/article/pii/S0927537123000301)      
 
 *Abstract*: This paper examines the impact of No Child Left Behind on graduation rates, by comparing districts below and above state graduation rate targets. It finds that districts below targets experience larger growth in graduation rates after the NCLB reform. Further, it analyzes detailed data on graduation codes in Louisiana, to show that strategic behaviors like non-verifiable exits and remedial courses are not the main drivers of the increase in graduation rates.
 
 ## Work in Progress:
-### *"The Impact of Private-School Vouchers on the Capitalization of Neighborhood School Quality in Housing Prices” with David Figlio and Douglas Harris, October 2025
+### "The Impact of Private-School Vouchers on the Capitalization of Neighborhood School Quality in Housing Prices” with David Figlio and Douglas Harris, October 2025
 
 <!-- My Presentations: 2022 Stanford Institute for Theoretical Economics (SITE) on ``New Frontiers in Asset Pricing''; 2022 SFS Cavalcade at University of North Carolina; 2022 WOLFE Annual Global Quantitative and Macro Investment Conference; 2022 China International Risk Forum (CIRF); 2022 Hong Kong Conference for Fintech, AI, and Big Data in Business; XXI Symposium at Paderborn University, Research Symposium on Finance and Economics (RSFE); EPFL; Yale -->
 
