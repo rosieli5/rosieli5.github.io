@@ -64,7 +64,13 @@ This paper examines the potential non-linear effects of teachers across elementa
 with Douglas Harris, Lihan Liu and Nathan Barrett
 *Labour Economics 82, Article 102355 (2023).* [Link](https://www.sciencedirect.com/science/article/pii/S0927537123000301)      
 
-*Abstract*: This paper examines the impact of No Child Left Behind on graduation rates, by comparing districts below and above state graduation rate targets. It finds that districts below targets experience larger growth in graduation rates after the NCLB reform. Further, it analyzes detailed data on graduation codes in Louisiana, to show that strategic behaviors like non-verifiable exits and remedial courses are not the main drivers of the increase in graduation rates.
+<details>
+
+<summary>Abstract</summary>
+
+This paper examines the impact of No Child Left Behind on graduation rates, by comparing districts below and above state graduation rate targets. It finds that districts below targets experience larger growth in graduation rates after the NCLB reform. Further, it analyzes detailed data on graduation codes in Louisiana, to show that strategic behaviors like non-verifiable exits and remedial courses are not the main drivers of the increase in graduation rates.
+
+</details>
 
 ## Work in Progress:
 ### "The Impact of Private-School Vouchers on the Capitalization of Neighborhood School Quality in Housing Prices” with David Figlio and Douglas Harris, October 2025
