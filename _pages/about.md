@@ -11,6 +11,7 @@ redirect_from:
 # About 
 I am a PhD candidate in Economics at Yale University. My fields of interest are Labor Economics, with a focus on Economics of Education.
 <!-- Before Yale, I earned a B.S. in Economics and B.A. in Sociology from Tulane University. -->
+  
 My research examines how school choice policies reshape communities and their implications for inequality. Using large-scale linked datasets, I trace these effects through housing markets, residential location patterns, teacher-student interactions, and school selection decisions.
 
 ## Working Papers     
