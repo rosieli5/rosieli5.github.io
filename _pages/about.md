@@ -23,7 +23,7 @@ I am on the 2025-2026 job market.
 <!-- (https://kangying-zhou.github.io/files/JMP_KangyingZhou.pdf)
 <!-- (https://www.dropbox.com/scl/fi/j3sw8yefim6ld42hqeply/JMP_KangyingZhou.pdf?rlkey=l7fm0d762hyu69nqo6m982szt&st=r3yoipyu&dl=0) -->
 
-<details>
+</details>
 
 <summary>Abstract</summary>
 
@@ -39,7 +39,7 @@ I find that open enrollment reduces the housing price premium for high-quality n
 
 ### *The Impact of Teachers on Academic Decision Making: The Case of School Choice*
 
-<details>
+</details>
 
 <summary>Abstract</summary>
 
@@ -50,7 +50,7 @@ Previous literature has found that teachers meaningfully impact the test scores 
 ### *The Effect of Teacher Allocations in Grades 3 through 5 on Middle School Academic Outcomes* 
 <!--[Draft Available Upon Request] -->    
 <!-- Solo-authored -->
-<details>
+</details>
 
 <summary>Abstract</summary>
 
@@ -64,7 +64,7 @@ This paper examines the potential non-linear effects of teachers across elementa
 with Douglas Harris, Lihan Liu and Nathan Barrett
 *Labour Economics 82, Article 102355 (2023).* [Link](https://www.sciencedirect.com/science/article/pii/S0927537123000301)      
 
-<details>
+</details>
 
 <summary>Abstract</summary>
 
