@@ -23,10 +23,10 @@ author:
   # Biographic information
   # avatar           : "profile34.png"
   # avatar           : "profile2to3.png" 
- avatar           : "profile-photo.png" 
-  #<div class="author-profile">
-  #<img src="profile-photo.png" alt="Avatar" class="avatar">
-  #</div>
+ # avatar           : "profile-photo.png" 
+  <div class="author-profile">
+  <img src="profile-photo.png" alt="Avatar" class="avatar">
+  </div>
   # name             : "Rosie Li"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate in Economics"
