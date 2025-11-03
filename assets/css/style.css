@@ -1,0 +1,10 @@
+.author-profile {
+  width: 300px; /* Adjust this width to make the section wider */
+  margin: 0 auto; /* Optional: Center the div */
+}
+
+.avatar {
+  width: 100%; /* Make the image take the full width of the parent div */
+  height: auto; /* Maintain the aspect ratio */
+  border-radius: 50%; /* Make the image circular */
+}
