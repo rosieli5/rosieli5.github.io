@@ -25,7 +25,7 @@ author:
   # avatar           : "profile2to3.png" 
  # avatar           : "profile-photo.png" 
   <div class="author-profile">
-  <img src="profile-photo-new.png" alt="Avatar" class="avatar">
+  <img src="profile_picture.png" alt="Avatar" class="avatar">
   </div>
   # name             : "Rosie Li"
   pronouns         : # example: "she/her"  
