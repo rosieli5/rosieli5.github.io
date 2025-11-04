@@ -7,7 +7,7 @@ redirect_from:
   - /Home/
   - /about.html
 ---
-<div style="text-align: justify;" markdown="1">
+<!--<div style="text-align: justify;" markdown="1"> -->
 # About 
 I am a PhD candidate in Economics at Yale University. My fields of interest are Labor Economics, with a focus on Economics of Education.
 <!-- Before Yale, I earned a B.S. in Economics and B.A. in Sociology from Tulane University. -->
