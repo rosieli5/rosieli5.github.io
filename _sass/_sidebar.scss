@@ -79,16 +79,18 @@
    //zhege shi shouji banben
 .author__avatar {
   // display: table;
-  display: block;
+  display: inline-block;
   // vertical-align: top;
-  width: 240px;
+  width: 150px;
   // width: 240px;
   // width: 240px;
   // set width only, for non-square avatars
-  height: 360px;
+  height: 250px;
   // height: 360px;
   // height: 360px;
-  margin: auto;
+  // margin: auto;
+  margin-right: 15px;
+
   // display: table-cell;
 
   // @include breakpoint($large) {
@@ -101,9 +103,9 @@
   img {
     // max-width: 175px;
     // max-width: 220px; //300px; 240
-    max-width: 175px;
+    max-width: 150px;
     // max-height: 330px; //360px; 320
-    max-height: 300px;
+    max-height: 250px;
     // border-radius: 50%;
     // border-radius: 100%;
 
