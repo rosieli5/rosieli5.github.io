@@ -1,7 +1,7 @@
 .author__avatar {
     border-radius: 0 !important; /* makes it square */
-    width: 180px !important;     /* increase width */
-    height: 180px !important;    /* increase height */
+    width: 100px !important;     /* increase width */
+    height: 60px !important;    /* increase height */
     object-fit: cover !important; /* ensure image fits within given dimensions */
     float: left; /* Allow text to wrap around the image */
     margin: 0 15px 15px 0; /* Add margin to separate text from the image */
