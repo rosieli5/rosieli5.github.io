@@ -45,7 +45,9 @@
 img {
     max-width: 100%;
     height: auto;
-    display: block;
+    float: left;
+    margin: 0 15px 15px 0; 
+    // display: block;
 }
 
 footer {
