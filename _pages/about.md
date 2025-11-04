@@ -66,7 +66,7 @@ This paper examines the impact of No Child Left Behind on graduation rates, by c
 </details>
 
 ## Work in Progress:
-### "The Impact of Private-School Vouchers on the Capitalization of Neighborhood School Quality in Housing Prices” with David Figlio and Douglas Harris, October 2025
+"The Impact of Private-School Vouchers on the Capitalization of Neighborhood School Quality in Housing Prices” with David Figlio and Douglas Harris, October 2025
 
 <!-- My Presentations: 2022 Stanford Institute for Theoretical Economics (SITE) on ``New Frontiers in Asset Pricing''; 2022 SFS Cavalcade at University of North Carolina; 2022 WOLFE Annual Global Quantitative and Macro Investment Conference; 2022 China International Risk Forum (CIRF); 2022 Hong Kong Conference for Fintech, AI, and Big Data in Business; XXI Symposium at Paderborn University, Research Symposium on Finance and Economics (RSFE); EPFL; Yale -->
 
