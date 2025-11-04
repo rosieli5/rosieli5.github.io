@@ -50,6 +50,14 @@ img {
     display: block; /* Ensure image acts as a block element */
     padding: 0;  /* Reset padding */
     border: 0;  /* Reset border */
+    word-wrap: break-word; /* Handle long words */
+}
+
+/* Clearfix for parent containers to handle floats */
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
 }
 
 
