@@ -42,24 +42,19 @@
 
 
 /* Custom image styling */
+/*
 img {
-    max-width: 50px; /* Set a maximum width for images (50% of the parent container) */
-    height: auto;   /* Maintain aspect ratio */
-    float: left;    /* Allow text to wrap around the image */
-    width: 100%;
-    margin: 0 15px 15px 0; /* Add margin to separate text from the image */
-    display: block; /* Ensure image acts as a block element */
-    padding: 0;  /* Reset padding */
-    border: 0;  /* Reset border */
-    word-wrap: break-word; /* Handle long words */
-}
+    max-width: 100%; *//* Set a maximum width for images (50% of the parent container) */
+/*    height: auto;  */ /* Maintain aspect ratio */
+/*    display: block;*/ /* Ensure image acts as a block element */
+/*}
 
 /* Clearfix for parent containers to handle floats */
-.clearfix::after {
+/* .clearfix::after {
     content: "";
     display: table;
     clear: both;
-}
+}*/
 
 
 footer {
