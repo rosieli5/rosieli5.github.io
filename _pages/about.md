@@ -41,7 +41,7 @@ Previous literature has found that teachers meaningfully impact the test scores 
 </details>
 
 ### *The Effect of Teacher Allocations in Grades 3 through 5 on Middle School Academic Outcomes* 
-<!--[Draft Available Upon Request] -->    
+[Draft Available Upon Request]
 <!-- Solo-authored -->
 <details>
 
