@@ -31,7 +31,7 @@ Intra-district open enrollment reduces the link between locations and local scho
 </details>
 
 ### *The Impact of Teachers on Academic Decision Making: The Case of School Choice*
-
+[Link](http://rosieli5.github.io/files/wp_teacher_va_academic_decision_RosieLi.pdf)
 <details>
 
 <summary>Abstract</summary>
